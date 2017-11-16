@@ -111,3 +111,12 @@
 #contactUs,#video{
   min-height: 70vh !important;
 }
+
+
+#feature:hover{
+  transition: all 200ms ease-in;
+  transform: scale(1.2);
+  z-index: 2;
+}
+
+
