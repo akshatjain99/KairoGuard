@@ -120,3 +120,15 @@
 }
 
 
+.fa-amazon, .fa-arrow-circle-right{
+  margin-left: 0.5em;
+}
+
+
+.headerItem{
+  color: white !important;
+}
+
+#mainHeading{
+  color: white !important;
+}
