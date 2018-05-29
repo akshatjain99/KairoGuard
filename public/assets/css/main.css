@@ -25,6 +25,12 @@
   flex-grow: 1;
 }
 
+#facebookIcon{
+  font-size: 2em;
+  padding: 0;
+  margin-bottom: 0.25em;
+}
+
 .masthead.segment{
   padding: 0;
   min-height: 100vh;
@@ -85,6 +91,10 @@
 #videoContainer{
   margin: 2em;
 
+}
+
+#videoHeading{
+  color: #ffffff;
 }
 
 /*FAQs CSS*/
